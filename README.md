@@ -1,5 +1,7 @@
 # Assignment #3 (Required)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MUSA-550-Fall-2020/assignment-3/master)
+
 ### Due Date: 10/8 by 6pm
 
 ### Topics covered
